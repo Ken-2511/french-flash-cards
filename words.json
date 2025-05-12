@@ -1,0 +1,22 @@
+[
+  { "fr": "bonjour",    "en": "hello" },
+  { "fr": "merci",      "en": "thank you" },
+  { "fr": "au revoir",  "en": "goodbye" },
+  { "fr": "s’il vous plaît", "en": "please" },
+  { "fr": "pomme",      "en": "apple" },
+  { "fr": "fromage",    "en": "cheese" },
+  { "fr": "pain",       "en": "bread" },
+  { "fr": "eau",        "en": "water" },
+  { "fr": "lait",       "en": "milk" },
+  { "fr": "chat",       "en": "cat" },
+  { "fr": "chien",      "en": "dog" },
+  { "fr": "maison",     "en": "house" },
+  { "fr": "école",      "en": "school" },
+  { "fr": "livre",      "en": "book" },
+  { "fr": "voiture",    "en": "car" },
+  { "fr": "fleur",      "en": "flower" },
+  { "fr": "soleil",     "en": "sun" },
+  { "fr": "lune",       "en": "moon" },
+  { "fr": "ami",        "en": "friend" },
+  { "fr": "famille",    "en": "family" }
+]

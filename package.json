@@ -1,0 +1,22 @@
+{
+  "name": "french-flash-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ken-2511/french-flash-cards.git"
+  },
+  "author": "Ken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ken-2511/french-flash-cards/issues"
+  },
+  "homepage": "https://github.com/Ken-2511/french-flash-cards#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
